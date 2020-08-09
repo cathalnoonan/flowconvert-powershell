@@ -1,0 +1,12 @@
+<Replacements>
+    <Replacement>
+        <Description>SharePoint Site</Description>
+        <SourceValue>"https://mytenant.sharepoint.com/sites/MY_SITE_DEV"</SourceValue>
+        <TargetValue>"https://mytenant.sharepoint.com/sites/MY_SITE"</TargetValue>
+    </Replacement>
+    <Replacement>
+        <Description>SharePoint Library: Contact entity</Description>
+        <SourceValue>"00000000-0000-0000-0000-000000000000"</SourceValue>
+        <TargetValue>"11111111-1111-1111-1111-111111111111"</TargetValue>
+    </Replacement>
+</Replacements>
